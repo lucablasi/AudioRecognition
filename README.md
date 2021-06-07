@@ -1,5 +1,5 @@
 # AudioRecognition
-Software para realizar identificación de señales de audio diseñado para la materia Procesamiento Digital de Señales.
+Software para realizar identificación de señales de audio diseñado para la materia Procesamiento Digital de Señales.\n
 Integrantes:
 - Luca Blasi
 - Débora Reyes
